@@ -15,5 +15,5 @@ def mul(a,b)
 
 def div(a,b)
 {
-   eco "The division os ${a} and ${b} is ${a/b}"
+   echo "The division os ${a} and ${b} is ${a/b}"
 }
